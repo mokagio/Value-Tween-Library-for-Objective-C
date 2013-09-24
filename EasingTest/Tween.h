@@ -50,4 +50,6 @@
 + (double)easeOutBounce:(double)t b:(double)b c:(double)c d:(double)d;
 + (double)easeInOutBounce:(double)t b:(double)b c:(double)c d:(double)d;
 
++ (void)clearAll;
+
 @end
